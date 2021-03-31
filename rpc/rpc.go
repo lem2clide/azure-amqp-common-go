@@ -33,7 +33,7 @@ import (
 
 	"github.com/devigned/tab"
 
-	"github.com/Azure/azure-amqp-common-go"
+	"github.com/lem2clide/azure-amqp-common-go"
 	"github.com/lem2clide/azure-amqp-common-go/internal/tracing"
 	"github.com/lem2clide/azure-amqp-common-go/uuid"
 	"github.com/lem2clide/go-amqp"
